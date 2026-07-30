@@ -40,7 +40,8 @@
 | 4 | xiangge-product-design-philosophy | 26KB | 17KB | 58% | 产品设计哲学 |
 | 5 | memory-system | 7KB | 9KB | 5% | 记忆系统L1/L2/L3 |
 | 6 | short-drama-iwasaki | 4KB | 4KB | 0% | 岩井俊二风格短视频 |
-| 7 | family-recording-annotation | 6KB | 8KB | 15% | 家庭录音笔记人物标注 |
+
+> 注：family-recording-annotation（家庭录音笔记人物标注）因涉及家庭隐私，未开源。
 
 ## 🔧 使用方法
 
