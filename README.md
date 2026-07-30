@@ -6,8 +6,8 @@
 
 本仓库包含两类 Skill：
 
-1. **`skills/`** — 开源通用版 V2 Skill（15个），直接从实战中提炼，已脱敏处理
-2. **`processed/`** — 经膨胀治理重建后的 Skill（7个），从原始版本经过五步重建法精简、去重、脱敏
+1. **`skills/`** — 开源通用版 V2 Skill（17个），直接从实战中提炼，已脱敏处理
+2. **`processed/`** — 经膨胀治理重建后的 Skill（3个），从原始版本经过五步重建法精简、去重、脱敏
 
 ## 📁 skills/ — 开源通用版 V2
 
@@ -27,6 +27,9 @@
 | 12 | xiangge-wechat-writing | 公众号文章写作 |
 | 13 | topic-selection | 公众号选题策划 |
 | 14 | skill-management | 技能生命周期管理 |
+| 15 | free-search-fallback | 非股市免费搜索 |
+| 16 | memory-system | 记忆系统L1/L2/L3 |
+| 17 | xiangge-product-design-philosophy | 产品设计哲学 |
 
 ## 📁 processed/ — 膨胀治理后 Skill
 
@@ -34,12 +37,9 @@
 
 | # | Skill 名称 | 原始大小 | 处理后 | 压缩率 | 说明 |
 |---|-----------|---------|--------|--------|------|
-| 1 | free-search-fallback | 26KB | 15KB | 61% | 非股市免费搜索(12源) |
-| 2 | multi-source-research | 27KB | 21KB | 49% | 股市专业搜索 |
-| 3 | memory-sync | 18KB | 15KB | 43% | 四层记忆同步铁律 |
-| 4 | xiangge-product-design-philosophy | 26KB | 17KB | 58% | 产品设计哲学 |
-| 5 | memory-system | 7KB | 9KB | 5% | 记忆系统L1/L2/L3 |
-| 6 | short-drama-iwasaki | 4KB | 4KB | 0% | 岩井俊二风格短视频 |
+| 1 | multi-source-research | 27KB | 21KB | 49% | 股市专业搜索 |
+| 2 | memory-sync | 18KB | 15KB | 43% | 四层记忆同步铁律 |
+| 3 | short-drama-iwasaki | 4KB | 4KB | 0% | 岩井俊二风格短视频 |
 
 > 注：family-recording-annotation（家庭录音笔记人物标注）因涉及家庭隐私，未开源。
 
