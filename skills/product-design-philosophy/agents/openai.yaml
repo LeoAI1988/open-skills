@@ -1,0 +1,4 @@
+interface:
+  display_name: "智能体产品设计哲学"
+  short_description: "设计主人低参与、可解释、隐私分级的智能体代理和撮合产品"
+  default_prompt: "使用 $product-design-philosophy 设计这个智能体代理产品。"
