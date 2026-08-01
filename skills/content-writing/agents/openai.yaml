@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文内容创作"
+  short_description: "覆盖原创、合规改写、去AI味润色与商业文案的中文创作流程"
+  default_prompt: "Use $content-writing to create or revise this Chinese content with factual and privacy checks."

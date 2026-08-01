@@ -1,0 +1,4 @@
+interface:
+  display_name: "内容选题策划"
+  short_description: "基于受众、素材、时效和传播价值建立并筛选内容选题池"
+  default_prompt: "Use $topic-selection to build and rank a source-grounded topic pool for this audience."

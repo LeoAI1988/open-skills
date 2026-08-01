@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill 生命周期管理"
+  short_description: "创建、审查、验证、打包和安装可复用且公开安全的Skill"
+  default_prompt: "Use $skill-management to create or audit this Skill and verify its public package."

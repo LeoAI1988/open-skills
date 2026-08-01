@@ -1,0 +1,4 @@
+interface:
+  display_name: "创作者账号规划"
+  short_description: "实时核验内容生态账号、经营主体、认证、店铺与合规选择路径"
+  default_prompt: "Use $tencent-creator-account to compare creator-account paths using current official rules."

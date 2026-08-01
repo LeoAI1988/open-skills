@@ -1,40 +1,65 @@
-# Open Skills - 开源通用版 Skill 集合
+# Open Skills
 
-> Agent 协同技能库 · 开源通用版
+面向公开使用的通用 Skill 集合。仓库与网站下载区保持同一份 Skill 清单和内容。
 
-## 📋 概述
+## Skill 清单
 
-本仓库包含一类目录 `skills/`，共 20 个 skill，直接从实战中提炼，已脱敏处理。
+### 创作与发布
 
-## 📁 skills/ — 开源通用版 V2
+| Skill | 用途 |
+|---|---|
+| `content-writing` | 中文写作、合规改写与润色 |
+| `topic-selection` | 内容选题池与标题策划 |
+| `wechat-writing` | 公众号文章写作 |
+| `article-image-design` | 封面、配图与系列卡片 |
+| `cinematic-emotional-short-drama` | 原创电影感情绪短剧 |
+| `hk-identity-classic-bridge` | 香港身份服务电影感广告创意 |
+| `social-media-publishing` | 社交平台内容发布与授权素材采集 |
 
-| # | Skill 名称 | 用途 |
-|---|-----------|------|
-| 1 | content-writing | 中文内容创作全流程 |
-| 2 | daily-review | 每日投资复盘 |
-| 3 | performance-analysis | 投资绩效分析 |
-| 4 | stock-chain-trading | AI产业链链传交易策略 |
-| 5 | investment-upgrade-workflow | 投资体系大版本升级 |
-| 6 | agent-match-platform | Agent撮合平台 |
-| 7 | tencent-creator-account | 腾讯生态创作者账号 |
-| 8 | hk-identity-classic-bridge | 香港身份广告·经典电影风格 |
-| 9 | social-media-publishing | 社交媒体发布 |
-| 10 | xiangge-image-design | 公众号配图设计 |
-| 11 | xiangge-topthinking-skill | 顶级思维决策系统 |
-| 12 | xiangge-wechat-writing | 公众号文章写作 |
-| 13 | topic-selection | 公众号选题策划 |
-| 14 | skill-management | 技能生命周期管理 |
-| 15 | free-search-fallback | 非股市免费搜索 |
-| 16 | memory-system | 记忆系统L1/L2/L3 |
-| 17 | xiangge-product-design-philosophy | 产品设计哲学 |
-| 18 | memory-sync | 四层记忆同步铁律 |
-| 19 | multi-source-research | 股市专业搜索 |
-| 20 | short-drama-iwasaki | 岩井俊二风格短视频 |
+### 投资与研究
 
-## 🔧 使用方法
+| Skill | 用途 |
+|---|---|
+| `daily-review` | 每日投资复盘 |
+| `investment-upgrade-workflow` | 投资规则体系版本升级 |
+| `multi-source-research` | 多源投资研究 |
+| `performance-analysis` | 投资绩效分析 |
+| `stock-chain-trading` | 产业链研究与风险情景 |
 
-每个 `.md` 文件都是一个完整的 SKILL.md，可直接复制到你的 Agent 技能目录中使用。
+### 商业与策略
 
-## 📜 License
+| Skill | 用途 |
+|---|---|
+| `strategic-thinking-system` | 复杂商业决策分析 |
+| `tencent-creator-account` | 创作者账号与经营主体规划 |
 
-MIT
+### 通用工具
+
+| Skill | 用途 |
+|---|---|
+| `free-search-fallback` | 免费公开搜索兜底 |
+| `skill-management` | Skill 创建、审查、打包与安装 |
+
+## 目录结构
+
+```text
+skills/
+└── skill-name/
+    ├── SKILL.md
+    └── agents/
+        └── openai.yaml
+```
+
+复制整个 Skill 目录到当前 Codex 配置的 Skill 目录即可安装。网站 ZIP 下载包使用相同目录内容。
+
+## 公开安全要求
+
+所有 Skill 在发布前检查：
+
+- 姓名、昵称、联系方式、账户、客户与家庭信息；
+- API 密钥、令牌、Cookie、内部 ID 和私人链接；
+- 本地路径、服务器地址和环境专属配置；
+- 私人投资数据、未授权案例和可识别经历；
+- 过时政策断言、绝对化收益承诺和未经确认的外部操作。
+
+如发现以上内容，应先替换为通用占位或删除，再公开发布。

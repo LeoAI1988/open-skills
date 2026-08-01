@@ -1,0 +1,4 @@
+interface:
+  display_name: "投资绩效分析"
+  short_description: "处理现金流、收益、回撤、数据缺口和策略分段的绩效审计"
+  default_prompt: "Use $performance-analysis to audit these account records with explicit data-quality limits."

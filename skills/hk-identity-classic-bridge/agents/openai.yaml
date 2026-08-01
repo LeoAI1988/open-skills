@@ -1,0 +1,4 @@
+interface:
+  display_name: "电影感广告创意"
+  short_description: "为香港身份与家庭规划服务设计原创电影感广告场景和分镜"
+  default_prompt: "Use $hk-identity-classic-bridge to create an original, policy-checked cinematic ad concept."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "社交媒体发布"
+  short_description: "准备、预览、确认、发布和归档社交平台内容并采集授权素材"
+  default_prompt: "Use $social-media-publishing to prepare this post and wait for explicit approval before publishing."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "免费搜索兜底"
+  short_description: "使用免费公开来源完成多源搜索、全文读取、去重与时效核验"
+  default_prompt: "Use $free-search-fallback to research this question with free public sources and citations."

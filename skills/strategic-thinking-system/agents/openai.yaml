@@ -1,0 +1,4 @@
+interface:
+  display_name: "战略思考系统"
+  short_description: "用情景分析、反向验证、多角色辩论和决策矩阵分析复杂商业问题"
+  default_prompt: "Use $strategic-thinking-system to compare these options and identify the smallest useful validation step."

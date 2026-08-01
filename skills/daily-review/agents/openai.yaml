@@ -1,0 +1,4 @@
+interface:
+  display_name: "每日投资复盘"
+  short_description: "核对当日交易和市场证据，分析执行偏差并建立次日情景计划"
+  default_prompt: "Use $daily-review to produce an evidence-based review of these trading records."

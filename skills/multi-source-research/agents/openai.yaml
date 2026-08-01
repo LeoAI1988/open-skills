@@ -1,0 +1,4 @@
+interface:
+  display_name: "多源投资研究"
+  short_description: "用官方资料、行情与反向证据核验股票、基金和行业链问题"
+  default_prompt: "Use $multi-source-research to research this market question with current, cited evidence."

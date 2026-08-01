@@ -1,0 +1,4 @@
+interface:
+  display_name: "投资体系升级"
+  short_description: "管理投资规则与评分体系的影响评估、版本升级、审计和同步"
+  default_prompt: "Use $investment-upgrade-workflow to assess and apply this ruleset upgrade safely."
